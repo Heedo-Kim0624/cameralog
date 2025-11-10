@@ -1,0 +1,10 @@
+/.gradle/
+/local.properties
+/android-sdk/
+/tools/
+/gradle-8.6/
+/gradle-8.6-bin.zip
+/jdk-17.0.11+9/
+/jdk17.zip
+/keystore/
+/app/build/

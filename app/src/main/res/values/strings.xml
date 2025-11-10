@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Camera Watch</string>
+    <string name="notification_channel_name">Camera Watch Monitoring</string>
+    <string name="notification_channel_desc">Notifies that camera usage monitoring is active.</string>
+    <string name="notification_title">Camera watch active</string>
+    <string name="notification_text">Monitoring camera availability</string>
+    <string name="notification_pause">Pause monitoring</string>
+    <string name="notification_resume">Resume monitoring</string>
+    <string name="export_csv">Export CSV</string>
+    <string name="no_sessions">No camera sessions recorded yet.</string>
+    <string name="monitoring_paused">Monitoring paused</string>
+    <string name="monitoring_active">Monitoring active</string>
+    <string name="request_notifications_rationale">Notification permission is required to keep the monitoring service running in the foreground.</string>
+    <string name="cta_grant">Grant</string>
+    <string name="start_collection">수집 시작</string>
+    <string name="stop_collection">수집 종료</string>
+    <string name="history">히스토리</string>
+    <string name="share_csv_title">CSV 공유</string>
+    <string name="history_empty">저장된 CSV가 없습니다.</string>
+    <string name="share">공유</string>
+    <string name="close">닫기</string>
+    <string name="share_error_no_app">공유할 수 있는 앱을 찾을 수 없습니다.</string>
+</resources>
